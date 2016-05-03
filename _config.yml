@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kikousa.github.io
+title: Manajemen Q
+email: matawebtng@gmail.com
+author: Kikousa
+description: Information dan seputar berita inspirasi mengenai perkembangan dunia teknologi saat ini yang terjadi di belahan dunia.
+paginate: 5
+google_analytics: 
